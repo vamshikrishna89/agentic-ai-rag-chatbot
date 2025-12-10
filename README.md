@@ -1,4 +1,4 @@
-# Agentic AI RAG Chatbot (PDF → Embeddings → Vector Search → Answers)
+Note: GitHub’s web viewer sometimes shows “Invalid notebook” for Colab notebooks due to extra widget metadata, but the notebook runs fine when downloaded and opened in Colab.# Agentic AI RAG Chatbot (PDF → Embeddings → Vector Search → Answers)
 
 This project is a **Retrieval-Augmented Generation (RAG)** chatbot built on top of the ebook:
 
