@@ -1,0 +1,7 @@
+sentence-transformers
+faiss-cpu
+pypdf
+transformers
+accelerate
+torch
+requests
